@@ -7,7 +7,9 @@ authors = [
     { name = "kj4tmp@gmail.com", email = "kj4tmp@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ruff>=0.12.7",
+]
 
 [project.scripts]
 lizard-spock = "lizard_spock:main"
