@@ -1,6 +1,3 @@
-[submodule "submodules/zig-spec"]
-	path = submodules/zig-spec
-	url = git@github.com:ziglang/zig-spec.git
 [submodule "submodules/zig"]
 	path = submodules/zig
 	url = git@github.com:ziglang/zig.git
